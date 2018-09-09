@@ -1,5 +1,6 @@
 Gitの練習をしてきます。
 基本的なワークフローを学びます。
+久しぶりにGITに戻ってきました。
 .git add
 .git commit
 .git rm
